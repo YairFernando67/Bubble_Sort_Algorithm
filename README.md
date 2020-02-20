@@ -75,7 +75,7 @@ user@pc:~$ git clone https://github.com/YairFernando67/Bubble_Sort_Algorithm
 Click on the console and to go to the folder that was created
 
 ```Shell
-user@pc:~$ cd Enumerables
+user@pc:~$ cd Bubble_Sort_Algorithm
 ```
 
 ```Shell
